@@ -1,0 +1,339 @@
+{
+  "livros": {
+    "01_Gn": {
+      "nome": "Gênesis",
+      "versiculos": 1533,
+      "palavras": 20613
+    },
+    "02_Êx": {
+      "nome": "Êxodo",
+      "versiculos": 1213,
+      "palavras": 16714
+    },
+    "03_Lv": {
+      "nome": "Levítico",
+      "versiculos": 859,
+      "palavras": 11950
+    },
+    "04_Nm": {
+      "nome": "Números",
+      "versiculos": 1289,
+      "palavras": 16413
+    },
+    "05_Dt": {
+      "nome": "Deuteronômio",
+      "versiculos": 959,
+      "palavras": 14295
+    },
+    "06_Js": {
+      "nome": "Josué",
+      "versiculos": 658,
+      "palavras": 10051
+    },
+    "07_Jz": {
+      "nome": "Juízes",
+      "versiculos": 618,
+      "palavras": 9885
+    },
+    "08_Rt": {
+      "nome": "Rute",
+      "versiculos": 85,
+      "palavras": 1296
+    },
+    "09_1Sm": {
+      "nome": "1 Samuel",
+      "versiculos": 811,
+      "palavras": 13262
+    },
+    "10_2Sm": {
+      "nome": "2 Samuel",
+      "versiculos": 695,
+      "palavras": 11042
+    },
+    "11_1Rs": {
+      "nome": "1 Reis",
+      "versiculos": 817,
+      "palavras": 13140
+    },
+    "12_2Rs": {
+      "nome": "2 Reis",
+      "versiculos": 719,
+      "palavras": 12283
+    },
+    "13_1Cr": {
+      "nome": "1 Crônicas",
+      "versiculos": 943,
+      "palavras": 10749
+    },
+    "14_2Cr": {
+      "nome": "2 Crônicas",
+      "versiculos": 822,
+      "palavras": 13315
+    },
+    "15_Ed": {
+      "nome": "Esdras",
+      "versiculos": 280,
+      "palavras": 3754
+    },
+    "16_Ne": {
+      "nome": "Neemias",
+      "versiculos": 405,
+      "palavras": 5313
+    },
+    "17_Et": {
+      "nome": "Ester",
+      "versiculos": 167,
+      "palavras": 3045
+    },
+    "18_Jó": {
+      "nome": "Jó",
+      "versiculos": 1070,
+      "palavras": 8343
+    },
+    "19_Sl": {
+      "nome": "Salmos",
+      "versiculos": 2527,
+      "palavras": 19589
+    },
+    "20_Pv": {
+      "nome": "Provérbios",
+      "versiculos": 915,
+      "palavras": 6915
+    },
+    "21_Ec": {
+      "nome": "Eclesiastes",
+      "versiculos": 222,
+      "palavras": 2987
+    },
+    "22_Ct": {
+      "nome": "Cantares",
+      "versiculos": 117,
+      "palavras": 1251
+    },
+    "23_Is": {
+      "nome": "Isaías",
+      "versiculos": 1291,
+      "palavras": 16933
+    },
+    "24_Jr": {
+      "nome": "Jeremias",
+      "versiculos": 1364,
+      "palavras": 21839
+    },
+    "25_Lm": {
+      "nome": "Lamentações",
+      "versiculos": 154,
+      "palavras": 1540
+    },
+    "26_Ez": {
+      "nome": "Ezequiel",
+      "versiculos": 1273,
+      "palavras": 18732
+    },
+    "27_Dn": {
+      "nome": "Daniel",
+      "versiculos": 357,
+      "palavras": 5919
+    },
+    "28_Os": {
+      "nome": "Oseias",
+      "versiculos": 197,
+      "palavras": 2381
+    },
+    "29_Jl": {
+      "nome": "Joel",
+      "versiculos": 73,
+      "palavras": 957
+    },
+    "30_Am": {
+      "nome": "Amós",
+      "versiculos": 146,
+      "palavras": 2042
+    },
+    "31_Ob": {
+      "nome": "Obadias",
+      "versiculos": 21,
+      "palavras": 291
+    },
+    "32_Jn": {
+      "nome": "Jonas",
+      "versiculos": 48,
+      "palavras": 688
+    },
+    "33_Mq": {
+      "nome": "Miqueias",
+      "versiculos": 105,
+      "palavras": 1396
+    },
+    "34_Na": {
+      "nome": "Naum",
+      "versiculos": 47,
+      "palavras": 558
+    },
+    "35_Hc": {
+      "nome": "Habacuque",
+      "versiculos": 56,
+      "palavras": 671
+    },
+    "36_Sf": {
+      "nome": "Sofonias",
+      "versiculos": 53,
+      "palavras": 767
+    },
+    "37_Ag": {
+      "nome": "Ageu",
+      "versiculos": 38,
+      "palavras": 600
+    },
+    "38_Zc": {
+      "nome": "Zacarias",
+      "versiculos": 211,
+      "palavras": 3128
+    },
+    "39_Ml": {
+      "nome": "Malaquias",
+      "versiculos": 55,
+      "palavras": 876
+    },
+    "40_Mt": {
+      "nome": "Mateus",
+      "versiculos": 1068,
+      "palavras": 18329
+    },
+    "41_Mc": {
+      "nome": "Marcos",
+      "versiculos": 673,
+      "palavras": 11286
+    },
+    "42_Lc": {
+      "nome": "Lucas",
+      "versiculos": 1149,
+      "palavras": 19446
+    },
+    "43_Jo": {
+      "nome": "João",
+      "versiculos": 866,
+      "palavras": 15438
+    },
+    "44_At": {
+      "nome": "Atos",
+      "versiculos": 1002,
+      "palavras": 18412
+    },
+    "45_Rm": {
+      "nome": "Romanos",
+      "versiculos": 430,
+      "palavras": 7055
+    },
+    "46_1Co": {
+      "nome": "1 Coríntios",
+      "versiculos": 437,
+      "palavras": 6812
+    },
+    "47_2Co": {
+      "nome": "2 Coríntios",
+      "versiculos": 256,
+      "palavras": 4473
+    },
+    "48_Gl": {
+      "nome": "Gálatas",
+      "versiculos": 149,
+      "palavras": 2226
+    },
+    "49_Ef": {
+      "nome": "Efésios",
+      "versiculos": 155,
+      "palavras": 2416
+    },
+    "50_Fp": {
+      "nome": "Filipenses",
+      "versiculos": 104,
+      "palavras": 1626
+    },
+    "51_Cl": {
+      "nome": "Colossenses",
+      "versiculos": 95,
+      "palavras": 1580
+    },
+    "52_1Ts": {
+      "nome": "1 Tessalonicenses",
+      "versiculos": 89,
+      "palavras": 1473
+    },
+    "53_2Ts": {
+      "nome": "2 Tessalonicenses",
+      "versiculos": 47,
+      "palavras": 820
+    },
+    "54_1Tm": {
+      "nome": "1 Timóteo",
+      "versiculos": 113,
+      "palavras": 1591
+    },
+    "55_2Tm": {
+      "nome": "2 Timóteo",
+      "versiculos": 83,
+      "palavras": 1235
+    },
+    "56_Tt": {
+      "nome": "Tito",
+      "versiculos": 46,
+      "palavras": 659
+    },
+    "57_Fm": {
+      "nome": "Filemom",
+      "versiculos": 25,
+      "palavras": 334
+    },
+    "58_Hb": {
+      "nome": "Hebreus",
+      "versiculos": 303,
+      "palavras": 4935
+    },
+    "59_Tg": {
+      "nome": "Tiago",
+      "versiculos": 108,
+      "palavras": 1739
+    },
+    "60_1Pe": {
+      "nome": "1 Pedro",
+      "versiculos": 105,
+      "palavras": 1678
+    },
+    "61_2Pe": {
+      "nome": "2 Pedro",
+      "versiculos": 61,
+      "palavras": 1098
+    },
+    "62_1Jo": {
+      "nome": "1 João",
+      "versiculos": 105,
+      "palavras": 2137
+    },
+    "63_2Jo": {
+      "nome": "2 João",
+      "versiculos": 13,
+      "palavras": 245
+    },
+    "64_3Jo": {
+      "nome": "3 João",
+      "versiculos": 15,
+      "palavras": 219
+    },
+    "65_Jd": {
+      "nome": "Judas",
+      "versiculos": 25,
+      "palavras": 459
+    },
+    "66_Ap": {
+      "nome": "Apocalipse",
+      "versiculos": 405,
+      "palavras": 9833
+    }
+  },
+  "alertas": {
+    "shin-sem-ponto": 3,
+    "vogal-deslocada": 637,
+    "qamets?": 1
+  }
+}

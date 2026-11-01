@@ -1,0 +1,280 @@
+# lang	chave	condições	glosa	classe	motivo
+# ================================ GREGO — pronomes (caso/gênero/número decidem a forma em português) ================================
+G	αὐτός	ca=G|D;prevpos=P-;nu=S;ge=F	ela~	A	Depois de preposição o pronome usa a forma tônica (ela); evita "de dele".
+G	αὐτός	ca=G|D;prevpos=P-;nu=S	ele~	A	Depois de preposição o pronome usa a forma tônica (ele); evita "de dele".
+G	αὐτός	ca=G|D;prevpos=P-;nu=P;ge=F	elas~	A	Depois de preposição o pronome usa a forma tônica (elas); evita "de dele".
+G	αὐτός	ca=G|D;prevpos=P-;nu=P	eles~	A	Depois de preposição o pronome usa a forma tônica (eles); evita "de dele".
+G	αὐτός	prevpos=RA	mesmo	B	Dicionário: "mesmo". Em posição atributiva (o mesmo) o termo é identificador, não pronome.
+G	αὐτός	ca=N;nextpos=RA	mesmo	B	Dicionário: "mesmo". Nominativo antes de artigo + nome = uso enfático (ele mesmo).
+G	αὐτός	ca=G;nu=S;ge=F	dela~	A	Genitivo singular feminino: "dela".
+G	αὐτός	ca=G;nu=S	dele~	A	Genitivo singular: "dele".
+G	αὐτός	ca=G;nu=P;ge=F	delas~	A	Genitivo plural feminino: "delas".
+G	αὐτός	ca=G;nu=P	deles~	A	Genitivo plural: "deles".
+G	αὐτός	ca=D;nu=S;ge=F	a-ela~	A	Dativo singular feminino.
+G	αὐτός	ca=D;nu=S	a-ele~	A	Dativo singular.
+G	αὐτός	ca=D;nu=P;ge=F	a-elas~	A	Dativo plural feminino.
+G	αὐτός	ca=D;nu=P	a-eles~	A	Dativo plural.
+G	αὐτός	ca=A;nu=S;ge=F;prevpos=P-	ela~	A	Acusativo depois de preposição: forma tônica.
+G	αὐτός	ca=A;nu=S;prevpos=P-	ele~	A	Acusativo depois de preposição: forma tônica.
+G	αὐτός	ca=A;nu=P;ge=F;prevpos=P-	elas~	A	Acusativo depois de preposição: forma tônica.
+G	αὐτός	ca=A;nu=P;prevpos=P-	eles~	A	Acusativo depois de preposição: forma tônica.
+G	αὐτός	ca=A;nu=S;ge=F	a~	A	Acusativo singular feminino (objeto).
+G	αὐτός	ca=A;nu=S	o~	A	Acusativo singular (objeto).
+G	αὐτός	ca=A;nu=P;ge=F	as~	A	Acusativo plural feminino (objeto).
+G	αὐτός	ca=A;nu=P	os~	A	Acusativo plural (objeto).
+G	αὐτός	ca=N;nu=S;ge=F	ela~	A	Nominativo singular feminino.
+G	αὐτός	ca=N;nu=P;ge=F	elas~	A	Nominativo plural feminino.
+G	αὐτός	ca=N;nu=P	eles~	A	Nominativo plural.
+G	ἐγώ	ca=G|D;prevpos=P-;nu=S	mim~	A	Depois de preposição o pronome usa a forma tônica (mim); evita "de dele".
+G	ἐγώ	ca=G|D;prevpos=P-;nu=P	nós~	A	Depois de preposição o pronome usa a forma tônica (nós); evita "de dele".
+G	ἐγώ	nu=S;ca=G	de-mim~	A	Genitivo singular (μου, ἐμοῦ): "de-mim", igual ao sufixo hebraico.
+G	ἐγώ	nu=S;ca=D	a-mim~	A	Dativo singular (μοι, ἐμοί).
+G	ἐγώ	nu=S;ca=A;form=^με$	me~	A	Acusativo átono (με).
+G	ἐγώ	nu=S;ca=A	mim~	A	Acusativo tônico (ἐμέ).
+G	ἐγώ	nu=P;ca=N	nós~	A	Nominativo plural (ἡμεῖς).
+G	ἐγώ	nu=P;ca=G	de-nós~	A	Genitivo plural (ἡμῶν).
+G	ἐγώ	nu=P;ca=D	a-nós~	A	Dativo plural (ἡμῖν).
+G	ἐγώ	nu=P;ca=A	nós~	A	Acusativo plural (ἡμᾶς).
+G	σύ	ca=G|D;prevpos=P-;nu=S	ti~	A	Depois de preposição o pronome usa a forma tônica (ti); evita "de dele".
+G	σύ	ca=G|D;prevpos=P-;nu=P	vós~	A	Depois de preposição o pronome usa a forma tônica (vós); evita "de dele".
+G	σύ	nu=S;ca=G	de-ti~	A	Genitivo singular (σου).
+G	σύ	nu=S;ca=D	a-ti~	A	Dativo singular (σοι).
+G	σύ	nu=S;ca=A	te~	A	Acusativo singular (σε).
+G	σύ	nu=P;ca=N	vós~	A	Nominativo plural (ὑμεῖς).
+G	σύ	nu=P;ca=G	de-vós~	A	Genitivo plural (ὑμῶν).
+G	σύ	nu=P;ca=D	a-vós~	A	Dativo plural (ὑμῖν).
+G	σύ	nu=P;ca=A	vós~	A	Acusativo plural (ὑμᾶς).
+G	οὗτος	nu=S;ge=F	esta~	A	Feminino singular.
+G	οὗτος	nu=S;ge=N;nextpos=RA|N-|A-	este~	A	Neutro singular modificando um nome: "este".
+G	οὗτος	nu=S;ge=N	isto~	A	Neutro singular sozinho: "isto".
+G	οὗτος	nu=P;ge=F	estas~	A	Feminino plural.
+G	οὗτος	nu=P;ge=N	estas~	A	Neutro plural.
+G	οὗτος	nu=P	estes~	A	Masculino plural.
+G	ἐκεῖνος	nu=S;ge=F	aquela~	A	Feminino singular.
+G	ἐκεῖνος	nu=S;ge=N;nextpos=RA|N-|A-	aquele~	A	Neutro singular modificando um nome.
+G	ἐκεῖνος	nu=S;ge=N	aquilo~	A	Neutro singular sozinho.
+G	ἐκεῖνος	nu=P;ge=F	aquelas~	A	Feminino plural.
+G	ἐκεῖνος	nu=P;ge=N	aquelas~	A	Neutro plural.
+G	ἐκεῖνος	nu=P	aqueles~	A	Masculino plural.
+G	ὅς	ca=G	do qual~	A	Relativo no genitivo: "do qual / cujo".
+G	ὅς	ca=D	ao qual~	A	Relativo no dativo: "ao qual".
+G	ὅς	nu=S	que~	A	Relativo no nominativo/acusativo: "que".
+G	ὅς	nu=P	que~	A	Relativo no nominativo/acusativo: "que".
+G	τίς	ge=N	o quê~	A	Interrogativo neutro: "o quê?".
+G	τίς	nextpos=N-|A-|RA	qual~	B	Interrogativo ao lado de um nome: "qual?".
+G	τις	ge=N	algo~	A	Indefinido neutro: "algo".
+G	τις	nextpos=N-|A-	certo~	B	Indefinido ao lado de um nome: "certo/algum".
+G	οὐδείς	ge=N	nada~	A	Neutro: "nada".
+G	οὐδείς	nextpos=N-|A-	nenhum~	B	Ao lado de um nome: "nenhum".
+G	μηδείς	ge=N	nada~	A	Neutro: "nada".
+G	μηδείς	nextpos=N-|A-	nenhum~	B	Ao lado de um nome: "nenhum".
+G	πᾶς	nu=P;ge=F	todas~	A	Plural feminino.
+G	πᾶς	nu=P;ge=N	todas as coisas~	A	Neutro plural sozinho: "tudo".
+G	πᾶς	nu=P	todos~	A	Plural masculino.
+G	πᾶς	nu=S;ge=F	toda~	A	Singular feminino.
+G	πᾶς	nu=S;ge=N;nextpos=N-|A-|RA	todo~	A	Neutro singular ao lado de nome.
+G	πᾶς	nu=S;ge=N	tudo~	A	Neutro singular sozinho: "tudo".
+G	πᾶς	nu=S	todo~	A	Singular masculino.
+G	πολύς	nu=P;ge=F	muitas~	A	Plural feminino.
+G	πολύς	nu=P	muitos~	A	Plural.
+G	πολύς	nu=S;ge=F	muita~	A	Singular feminino.
+G	πολύς	nu=S	muito~	A	Singular.
+G	ὅλος	ge=F	toda~	A	Feminino.
+G	ὅλος	nu=P	todos~	A	Plural.
+G	ἄλλος	nu=P;ge=F	outras~	A	Plural feminino.
+G	ἄλλος	nu=P	outros~	A	Plural.
+G	ἄλλος	nu=S;ge=F	outra~	A	Singular feminino.
+G	εἷς	ge=F	uma~	A	Feminino.
+G	ὅσος	nu=P	quantos~	A	Plural.
+G	ὅσος	ge=N	quanto~	A	Neutro.
+G	ἕκαστος	ge=F	cada uma~	A	Feminino.
+G	ἐμός	ge=F;nu=S	minha~	A	Feminino singular.
+G	ἐμός	nu=P;ge=F	minhas~	A	Feminino plural.
+G	ἐμός	nu=P	meus~	A	Plural.
+G	σός	ge=F;nu=S	tua~	A	Feminino singular.
+G	σός	nu=P;ge=F	tuas~	A	Feminino plural.
+G	σός	nu=P	teus~	A	Plural.
+# ================================ GREGO — preposições (o caso do nome que segue decide o sentido, como no dicionário) ================================
+G	διά	nextca=G	por meio de	A	Dicionário: "through" com genitivo.
+G	διά	nextca=A	por causa de	A	Dicionário: "on account of" com acusativo.
+G	κατά	nextca=G	contra	A	Dicionário: "against / down from" com genitivo.
+G	κατά	nextca=A	segundo	A	Dicionário: "according to" com acusativo.
+G	μετά	nextca=G	com	A	Dicionário: "with" com genitivo.
+G	μετά	nextca=A	depois de	A	Dicionário: "after" com acusativo.
+G	περί	nextca=G	acerca de	A	Dicionário: "concerning" com genitivo.
+G	περί	nextca=A	ao redor de	A	Dicionário: "around" com acusativo.
+G	ὑπέρ	nextca=G	em favor de	A	Dicionário: "in behalf of" com genitivo.
+G	ὑπέρ	nextca=A	acima de	A	Dicionário: "above" com acusativo.
+G	ὑπό	nextca=G	por	A	Dicionário: "by" (agente) com genitivo.
+G	ὑπό	nextca=A	sob	A	Dicionário: "under" com acusativo.
+G	παρά	nextca=G	da parte de	A	Dicionário: "from" com genitivo.
+G	παρά	nextca=D	junto a	A	Dicionário: "in the presence of" com dativo.
+G	παρά	nextca=A	ao lado de	A	Dicionário: "beside" com acusativo.
+G	πρός	nextca=D	junto a	A	Com dativo: junto a.
+G	ἐπί	nextca=G	sobre	A	Com genitivo: sobre.
+# ================================ GREGO — conjunções e partículas ================================
+G	ὅτι	nearprev3=λέγω|φημί|γινώσκω|οἶδα|πιστεύω|ἀκούω|ὁράω|βλέπω|θεωρέω|μαρτυρέω|ἀποκρίνομαι|ἐπιγινώσκω|δοκέω|νομίζω|ἀπαγγέλλω|ἀναγγέλλω|ἐρωτάω|γράφω|ὁμολογέω|διαμαρτύρομαι|εὑρίσκω|λογίζομαι|πείθω|ἐλπίζω|ἐμφανίζω|δείκνυμι|ἀναγινώσκω|μιμνῄσκομαι|μνημονεύω|ἀποκαλύπτω|φανερόω|συνίημι|ἐπίσταμαι|προφητεύω|ἀναμιμνῄσκω|ἀγνοέω|ὑπομιμνῄσκω|κηρύσσω|εὐαγγελίζω|ἀναβλέπω|πληροφορέω|οἴομαι|ἡγέομαι|κρίνω|ὑπονοέω|φοβέομαι	que	B	Depois de verbo de dizer/saber/ver/crer, ὅτι introduz o conteúdo: "que".
+G	ὅτι		porque	B	Nos demais contextos ὅτι introduz razão: "porque" (dicionário: "because").
+G	ἵνα		para que	A	Dicionário: "in order that, so that" — forma única.
+G	ἤ	cmp=1	do que	B	Depois de comparativo, ἤ = "do que" (dicionário: "than").
+G	οὖν	book=40-44	então	B	Nos Evangelhos e Atos οὖν é quase sempre narrativo ("então"); dicionário: "then".
+G	οὖν		portanto	B	Nas epístolas e Apocalipse οὖν é inferencial ("portanto"); dicionário: "therefore".
+G	δέ	nearprev=οὐ|μή|οὐδείς|μηδείς|οὐδέ|μηδέ	mas	B	Depois de negação, δέ contrasta: "mas".
+G	δέ	nearprev=μέν	porém	B	Par μέν… δέ ("por um lado… por outro"): "porém".
+G	δέ		e	B	Em narrativa δέ é conectivo suave; dicionário: "and". Antes estava "mas".
+G	οὐ	next=μή	de modo algum	C	Locução οὐ μή = negação enfática ("de modo algum"); dicionário: "no, not" + μή.
+G	μή	prev=οὐ	jamais	C	Segunda metade da locução οὐ μή (negação enfática).
+# ================================ GREGO — verbos ================================
+G	γίνομαι	te=A;vo=M|P;mo=I;pe=3;punct=1;next=δέ|ἐν|ὡς|ὅτε|ἐπί|μετά|ἐάν|ἐκ|πρός|ἡμέρα	acontecer	B	"Ἐγένετο" no início de oração narrativa seguido de δέ/ἐν/ὡς…: "aconteceu" (dicionário: "become, happen").
+G	γίνομαι	te=A;vo=M|P;mo=I;pe=3;prev=καί;next=δέ|ἐν|ὡς|ὅτε|ἐπί|μετά|ἐάν|ἐκ|πρός|ἡμέρα	acontecer	B	"καὶ ἐγένετο" + δέ/ἐν/ὡς…: "e aconteceu" (dicionário: "become, happen").
+G	ἀφίημι	near=ἁμαρτία|παράπτωμα|ὀφείλημα|ὀφειλή|ἀνομία|ἁμάρτημα|ὀφειλέτης|παράπτωμα	perdoar	B	Com objeto "pecado/dívida", ἀφίημι = "perdoar" (dicionário: "forgive").
+G	ἀφίημι		deixar	B	Nos demais casos: "deixar" (dicionário: "send away, release, permit").
+G	ἵστημι	vo=M|P	ficar de pé	A	Voz média/passiva é intransitiva: "ficar de pé" (dicionário: "stand").
+G	ἵστημι	te=X|Y	ficar de pé	A	Perfeito/mais-que-perfeito é intransitivo: "estar de pé".
+G	ἵστημι	form=^(ἔστη|στῆ|στάς|στάντ|στᾶσ|στᾶ|ἑστ)	ficar de pé	A	Formas intransitivas do aoristo: "ficar de pé".
+G	ἄρχω	vo=A	governar	A	Voz ativa: "reinar, governar".
+G	ἅπτω	vo=M	tocar	A	Voz média: "tocar" (dicionário).
+G	ἅπτω	vo=A	acender	A	Voz ativa: "acender" (dicionário).
+G	λαμβάνω	near=ἄρτος|ποτήριον|πρόσωπον|βιβλίον|ἔλαιον|ὕδωρ|σταυρός|ῥάβδος|κάλαμος|ἀργύριον	tomar	B	Com objeto concreto, "tomar" (dicionário: "take").
+G	γράφω	te=X;vo=P;pe=3	estar escrito	A	γέγραπται (perfeito passivo): "está escrito".
+G	πληρόω	near=προφήτης|γραφή|ῥῆμα|νόμος|λόγος|ἀναπληρόω	cumprir	B	Com profeta/escritura/palavra, "cumprir" (dicionário: "fulfil").
+G	ψυχή	near=τίθημι|δίδωμι|ἀπόλλυμι|σῴζω|εὑρίσκω|ζητέω|ἀγαπάω|μισέω|φυλάσσω|κινδυνεύω|ἀποθνῄσκω	vida	B	Com verbos de perder/dar/salvar, ψυχή = "vida" (dicionário: "life").
+G	δύναμις	nu=P	obras poderosas	B	Plural: "marvelous works" no dicionário.
+G	δοκέω	pe=3;nu=S;mo=I	parecer	B	3ª pessoa do singular: "parece".
+G	ἀπολύω	near=γυνή|γαμέω|μοιχεύω|μοιχάομαι	divorciar	B	Com "mulher/casar/adultério": "divorciar" (dicionário).
+G	πνεῦμα	near=πνέω|ἄνεμος	vento	B	Com "soprar": "vento" (dicionário: "wind").
+# ================================ HEBRAICO — verbos (o tema verbal decide o sentido, como nas seções do BDB) ================================
+H	935	stem=q;near=8121	pôr-se	B	Com "sol" como sujeito, bôʾ = "pôr-se" (entrar). Dicionário: "come in".
+H	935	stem=h	trazer	A	Hifil: "cause to come in; bring in" → "trazer".
+H	935	stem=H	ser trazido	A	Hofal: "be brought in".
+H	3318	stem=h	tirar	A	Hifil: "cause to go out; bring out" → "tirar".
+H	3318	stem=H	ser tirado	A	Hofal: "be brought forth".
+H	7725	stem=h	devolver	A	Hifil: "cause to return; bring back; give back" → "devolver".
+H	7725	stem=H	ser devolvido	A	Hofal: "has been returned".
+H	1980	stem=q;near=1870	andar	B	Qal com "caminho" por perto: "andar" (dicionário: "walk").
+H	3212	stem=q;near=1870	andar	B	Qal com "caminho" por perto: "andar" (dicionário: "walk").
+H	1980	stem=t|p	andar	A	Hitpael/Piel: "walk about".
+H	3212	stem=t|p	andar	A	Hitpael/Piel: "walk about".
+H	1980	stem=h	conduzir	A	Hifil: "lead; bring".
+H	3212	stem=h	conduzir	A	Hifil: "lead; bring".
+H	5414	stem=q;near=3027	entregar	B	"dar na mão de" = entregar (dicionário: "give; put; set").
+H	5414	stem=N	ser dado	A	Nifal: "be given".
+H	5927	stem=h;near=5930	oferecer	B	Hifil com "holocausto": "offer".
+H	5927	stem=h	fazer subir	A	Hifil: "bring up; cause to ascend".
+H	5927	stem=H	ser levado	A	Hofal: "be carried away; be taken up".
+H	5375	stem=q;near=5771|2399|2403|6588|2401|4912	carregar	B	Com "culpa/pecado": "carregar" (dicionário: "bear; carry").
+H	5375	stem=N	ser levantado	A	Nifal: "be lifted up".
+H	7200	stem=N	aparecer	A	Nifal: "appear; be seen".
+H	7200	stem=h	mostrar	A	Hifil: "shew; cause to see".
+H	8085	stem=q;next=6963;nextpref=b	obedecer	B	šāmaʿ + bə-qôl: "dar ouvidos à voz" = obedecer (BDB: "hear obediently").
+H	8085	stem=h	fazer ouvir	A	Hifil: "cause to hear".
+H	8085	stem=N	ser ouvido	A	Nifal: "be heard".
+H	3045	stem=q;next=3588	saber	B	yāḏaʿ + kî ("que"): "saber que" (dicionário: "know").
+H	3045	stem=h	dar a conhecer	A	Hifil: "make known; declare".
+H	3045	stem=N	ser conhecido	A	Nifal: "be made known".
+H	559	stem=N	ser dito	A	Nifal: "be said".
+H	559	stem=t	gabar-se	A	Hitpael: "act proudly; boast".
+H	6213	stem=N	ser feito	A	Nifal: "be done; be made".
+H	3205	stem=h	gerar	A	Hifil: "beget".
+H	3205	stem=N|P	nascer	A	Nifal/Pual: "be born".
+H	3205	stem=q;g=f	dar à luz	A	Qal, sujeito feminino: "bear; bring forth".
+H	3205	stem=q	gerar	A	Qal, sujeito masculino: "beget".
+H	1288	stem=P	ser abençoado	A	Pual: "be blessed".
+H	1288	stem=p	abençoar	A	Piel: "bless".
+H	1288	stem=q;vt=s	abençoado	A	Particípio passivo (bārûḵ): "abençoado".
+H	1288	stem=t|N	abençoar-se	A	Hitpael/Nifal: "bless oneself".
+H	6485	book=4	contar	B	No livro de Números pāqaḏ = recensear/contar (dicionário: "muster").
+H	6485	stem=h	designar	A	Hifil: "set over; make overseer".
+H	5493	stem=h	remover	A	Hifil: "cause to depart; remove; take away".
+H	5493	stem=H	ser removido	A	Hofal.
+H	4672	stem=N	ser achado	A	Nifal: "be found".
+H	5307	stem=h	derrubar	A	Hifil: "cause to fall; overthrow".
+H	5307	stem=t	lançar-se	A	Hitpael: "prostrate oneself".
+H	3381	stem=h	fazer descer	A	Hifil: "bring down; cause to come down".
+H	1129	stem=N	ser construído	A	Nifal: "be built".
+H	4427	stem=q	reinar	A	Qal: "reign".
+H	4427	stem=h	constituir rei	A	Hifil: "make king".
+H	2388	stem=p|h	fortalecer	A	Piel/Hifil: "make strong; strengthen".
+H	2388	stem=t	fortalecer-se	A	Hitpael: "strengthen oneself".
+H	3772	stem=q;near=1285	firmar	B	"cortar aliança" = firmar aliança (dicionário: "cut off; … make a covenant").
+H	3772	stem=N|P	ser cortado	A	Nifal/Pual: "be cut off".
+H	3772	stem=h	exterminar	A	Hifil: "cut off; destroy".
+H	5647	stem=q;near=127	trabalhar	B	Com "terra cultivada": "trabalhar" (dicionário: "labour; work").
+H	5647	stem=q	servir	B	Qal: "serve him by labour" (dicionário). Antes estava "trabalhar".
+H	6965	stem=h;near=1285	estabelecer	B	Hifil com "aliança": "estabelecer" (dicionário: "set up").
+H	6965	stem=h	levantar	A	Hifil: "cause to arise; raise; set up".
+H	6965	stem=p	confirmar	A	Piel: "fulfil; confirm; establish".
+H	5975	stem=h	colocar	A	Hifil: "station; set; cause to stand".
+H	7126	stem=h;near=7133|5930|2077|4503|2281|8002	oferecer	B	Hifil com oferta/sacrifício: "present; bring near" → "oferecer".
+H	7126	stem=h	aproximar	A	Hifil: "bring near".
+H	3427	stem=q;nextpref=b	habitar	B	yāšab + preposição "em": "habitar" (dicionário: "dwell; abide").
+H	3427	stem=q;next=8033	habitar	B	yāšab + "ali": "habitar".
+H	3427	stem=h	fazer habitar	A	Hifil: "cause to dwell".
+H	3427	stem=N	ser habitado	A	Nifal: "be inhabited".
+H	7971	stem=q;near=3027	estender	B	"enviar a mão" = estender a mão (dicionário: "stretch out").
+H	7971	stem=p	despedir	A	Piel: "send away".
+H	4191	stem=h|o|O	matar	A	Hifil/Polel: "kill; put to death".
+H	4191	stem=H	ser morto	A	Hofal: "be killed".
+H	398	stem=q;nearprev=784|2719	consumir	B	Com "fogo/espada" como sujeito: "consumir" (dicionário: "devour; consume").
+H	398	stem=h	alimentar	A	Hifil: "cause to eat; feed".
+H	398	stem=N	ser comido	A	Nifal: "be eaten".
+H	5674	stem=h	fazer passar	A	Hifil: "cause to pass over".
+H	2421	stem=p|h	dar vida	A	Piel/Hifil: "preserve alive; let live; quicken".
+H	3615	stem=p	concluir	A	Piel: "complete; finish".
+H	4390	stem=N	ser cheio	A	Nifal: "be filled".
+H	4390	stem=p	encher	A	Piel: "fill; fulfil".
+H	3372	stem=N	temível	A	Nifal (particípio): "dreadful; inspiring awe".
+H	6942	stem=p	santificar	A	Piel: "set apart; consecrate".
+H	6942	stem=h	consagrar	A	Hifil: "consecrate".
+H	6942	stem=t	santificar-se	A	Hitpael.
+H	6942	stem=N	mostrar-se santo	A	Nifal: "shew oneself sacred".
+H	1984	stem=p	louvar	A	Piel: "praise".
+H	1984	stem=t	gloriar-se	A	Hitpael: "glory; boast".
+H	8199	stem=N	ser julgado	A	Nifal: "be judged".
+H	3947	stem=N|P	ser tomado	A	Nifal/Pual: "be taken".
+H	2142	stem=N	ser lembrado	A	Nifal: "be remembered".
+H	2142	stem=h	fazer lembrar	A	Hifil: "cause to remember".
+H	5186	stem=h	inclinar	A	Hifil: "incline; turn".
+H	7121	stem=N|P	ser chamado	A	Nifal/Pual: "be called".
+H	8104	stem=N	guardar-se	A	Nifal: "keep oneself; be on one's guard".
+H	3045	stem=P	conhecido	A	Pual (particípio): "known".
+H	1961	vt=w;next=310|3117|6256|1242|6153|7227|4150	acontecer	B	wayəhî + palavra de tempo: "e aconteceu" (dicionário: "come to pass").
+H	1961	vt=w;nextpref=b|k	acontecer	B	wayəhî + "em/como": "e aconteceu" (dicionário: "come to pass").
+H	1961	vt=q;next=3117	acontecer	B	wəhāyâ + "dia": "e acontecerá" (dicionário: "come to pass").
+# ================================ HEBRAICO — partículas, nomes e locuções ================================
+H	3588	next=518	mas	C	Locução kî ʾim = "mas, antes" (BDB: "but rather").
+H	3588	nearprev=3045|7200|559|8085|5046|2142|5608|995	que	B	Depois de verbo de saber/ver/dizer, kî introduz o conteúdo: "que".
+H	3588		porque	B	Nos demais casos kî introduz razão: "porque" (dicionário: "for; because").
+H	518	prev=3588	antes	C	Segunda metade da locução kî ʾim ("mas antes").
+H	5921	next=3651	por	C	Locução ʿal-kēn = "por isso" (dicionário: "on account of").
+H	5921	next=4100	por	C	Locução ʿal-māh = "por quê" (dicionário: "on account of").
+H	5921	next=5104|2975|4325|3220|8179|1870|5869|6388|5158	junto a	B	ʿal + rio/água/porta/caminho: "junto a" (dicionário: "beside; by").
+H	3651	prev=5921	isso	C	Segunda metade de ʿal-kēn ("por isso").
+H	6440	pref=l	=diante de	A	lipnê: BDB lista "before" sob פנים.
+H	6440	pref=m	=de diante de	A	mipnê: "from before" (BDB: "face; before").
+H	3117	prefs=d;n=s;prev!=996|3605;prevpos=V	=hoje	C	hayyôm depois de verbo = "hoje" (dicionário: "day" com artigo, uso adverbial).
+H	3117	prefs=d;n=s;prev!=996|3605;nextpos=V	=hoje	C	hayyôm antes de verbo = "hoje" (dicionário: "day" com artigo, uso adverbial).
+H	5750	prev=3808|369|408|3808	mais	B	Depois de negação, ʿôd = "não mais" (dicionário: "still; yet; again; besides").
+H	7307	nearprev=6924|6828|3220|5591|8486|7307	vento	B	Com "oriente/norte/mar/tempestade": rûaḥ = "vento" (dicionário: "wind").
+H	7307	near=6924|6828|3220|5591|8486	vento	B	Com "oriente/norte/mar/tempestade": rûaḥ = "vento" (dicionário: "wind").
+H	5315	near=5221|2026|1245|7523|5337|6299|5414	vida	B	Com "ferir/buscar/livrar": nefesh = "vida" (dicionário: "life").
+H	5315	nearprev=5221|2026|1245|7523|5337|6299|5414	vida	B	Com "ferir/buscar/livrar": nefesh = "vida" (dicionário: "life").
+H	1697	n=p;next=428|2088|2063	coisa	B	Plural com "estas": dāvār = "coisas" (dicionário: "matter; affair").
+H	6310	prefs=l;next=2719	=ao fio de	C	lə-pî ḥereḇ = "ao fio da espada" (BDB: פה "edge").
+H	6310	prefs=l;st=c	=conforme	C	lə-pî = "conforme" (BDB: פה, locução "according to").
+H	376	next=413;next2=251	cada um	C	ʾîš ʾel-ʾāḥîw = "cada um ao seu irmão" (dicionário: "one … another").
+H	1931	g=f	ela	A	Pronome 3ª feminino singular (hîʾ).
+H	3427	stem=q;nearprev=4186|3678	sentar	B	yāšab com "assento/trono": "sentar" (dicionário: "sit").
+H	3427	stem=q;near=3678|4186	sentar	B	yāšab com "assento/trono": "sentar" (dicionário: "sit").
+H	1897	nearprev=3123|738|3715|1121	gemer	B	hāgâ com pomba/leão como sujeito: "gemer, rugir" (BDB 1a-b: growl; groan).
+H	1897	near=7385	imaginar	B	hāgâ + "vão": "imaginar, tramar" (BDB 3b: imagine; devise).
+H	1897	vt=a|c	meditar	B	Infinitivo: "meditar" (BDB 3a).
+H	1897		meditar	B	Com sujeito humano e a lei/palavra como objeto: "meditar" (BDB 3a: soliloquize; meditate; muse). Antes estava "gemer".
+H	7307	nearprev=5086|5380	vento	B	Com "impelir/soprar": rûaḥ = "vento" (dicionário: "wind").
+H	7307	near=5086|5380	vento	B	Com "impelir/soprar": rûaḥ = "vento" (dicionário: "wind").
+H	3887	vt=r|s	zombador	A	Particípio usado como substantivo; o BDB lista "scorners" (zombadores).
+H	7462	stem=q;vt=r	pastor	A	Particípio ativo: rōʿeh = "pastor" (BDB: "shepherd"). Antes estava "pastar".
+H	7725	stem=o|O	restaurar	A	Polel: "bring back; restore; refresh; repair".
+H	3034	stem=h	louvar	A	Hifil: "praise" (BDB: "give thanks; confess; praise"). Antes estava "lançar".
+H	3034	stem=t	confessar	A	Hitpael: "confess".
+H	3034	stem=q	lançar	A	Qal: "throw".

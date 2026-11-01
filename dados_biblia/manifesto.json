@@ -1,0 +1,367 @@
+{
+  "AT_hebraico_WLC/01_Gn.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml",
+    "bytes": 1859928,
+    "sha256": "0526e5c9a5fb4d907847645f954ed3d1268fa69decbd872056cedd2668d86449"
+  },
+  "AT_hebraico_WLC/02_Êx.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Exod.xml",
+    "bytes": 1524391,
+    "sha256": "04868367cdacb6ccdc61488e923e20f918172042e6437842a0621f63ac5b847f"
+  },
+  "AT_hebraico_WLC/03_Lv.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Lev.xml",
+    "bytes": 1085066,
+    "sha256": "e21e70265c9ef500182f8ccb4f4e1186e5a79e1169d24cef23cc479baf07b191"
+  },
+  "AT_hebraico_WLC/04_Nm.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Num.xml",
+    "bytes": 1496830,
+    "sha256": "02e4febfcc027d10b3e35e4f091eae67a40d26f37b6254faac6b4af053fe4896"
+  },
+  "AT_hebraico_WLC/05_Dt.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Deut.xml",
+    "bytes": 1315399,
+    "sha256": "04f8087442a1e67a631cd70f2ac4e42fe0a780ae132edb165a3a29f3f290358f"
+  },
+  "AT_hebraico_WLC/06_Js.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Josh.xml",
+    "bytes": 919916,
+    "sha256": "a066200ab2269c0a86a2e9ba119a3d0fce8c5f7ecc44bb53ec134b83dffc6006"
+  },
+  "AT_hebraico_WLC/07_Jz.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Judg.xml",
+    "bytes": 904347,
+    "sha256": "3b3a909f04041dbd52dc6b7293a96ce75d94db8a90fdeda878943db7b8fac57f"
+  },
+  "AT_hebraico_WLC/08_Rt.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ruth.xml",
+    "bytes": 136188,
+    "sha256": "fb6a2660383c7176941cb87b2be182ef634b66d49d057635869f4d9cb1f0a11e"
+  },
+  "AT_hebraico_WLC/09_1Sm.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/1Sam.xml",
+    "bytes": 1206608,
+    "sha256": "960432732c22286b82d80b6b25af8d10dc5f2e82a4e5e48b2e3a1b1eea17f3cb"
+  },
+  "AT_hebraico_WLC/10_2Sm.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/2Sam.xml",
+    "bytes": 1013552,
+    "sha256": "e7793e141ed94eadbd2dfb23936abbb4062e81a7dcd41114a6e36644f50b8333"
+  },
+  "AT_hebraico_WLC/11_1Rs.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/1Kgs.xml",
+    "bytes": 1189874,
+    "sha256": "832ba10f605dce34c4888ee0a795d91edc2b293391d6ae9c36c36c6350761a3e"
+  },
+  "AT_hebraico_WLC/12_2Rs.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/2Kgs.xml",
+    "bytes": 1115537,
+    "sha256": "056db5393beaef0a1159d9bcaac7dfd865df9bab2eb240ea90e9fa3f0c0e7449"
+  },
+  "AT_hebraico_WLC/13_1Cr.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/1Chr.xml",
+    "bytes": 1014881,
+    "sha256": "8b59992b6607c6ca0fc423813be8cc244f011c1da32bc8485c0c0f581a897ed4"
+  },
+  "AT_hebraico_WLC/14_2Cr.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/2Chr.xml",
+    "bytes": 1222694,
+    "sha256": "507294e8ca0fcf31ec25fe62fa24a7f2581f53116519bf08cfe96ff85e9c99fb"
+  },
+  "AT_hebraico_WLC/15_Ed.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ezra.xml",
+    "bytes": 369918,
+    "sha256": "fb28ff697d0ee17eba5b4db47fb7261ee1870cea0d5701bfc77c9e28d4138129"
+  },
+  "AT_hebraico_WLC/16_Ne.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Neh.xml",
+    "bytes": 512876,
+    "sha256": "be082e95c206469122455b9849d4dd08da50c817732d8198c1beece90402801a"
+  },
+  "AT_hebraico_WLC/17_Et.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Esth.xml",
+    "bytes": 292184,
+    "sha256": "f9b5b8adaf504dcac409bb6a27c9328967f47eeb4e920070cd53ef5301299019"
+  },
+  "AT_hebraico_WLC/18_Jó.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Job.xml",
+    "bytes": 813715,
+    "sha256": "7db3311184122f37a8fd52f3c7c0c4a6d2da7b77ee82f4fdb26bcba9171d297f"
+  },
+  "AT_hebraico_WLC/19_Sl.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ps.xml",
+    "bytes": 1925086,
+    "sha256": "fe55eef316a65fb0f46d833d526ca2fd722e86ff7339f1a39f0c5b7f9062ced2"
+  },
+  "AT_hebraico_WLC/20_Pv.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Prov.xml",
+    "bytes": 678669,
+    "sha256": "964f99c00239b53b854c4686c99490c8d1ac7664784a30afdfc23781a3abb161"
+  },
+  "AT_hebraico_WLC/21_Ec.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Eccl.xml",
+    "bytes": 285122,
+    "sha256": "2dfc858d19048f6479eca33b9fe781c2d7e9059e9ae3ab0b37b802d3afec02bb"
+  },
+  "AT_hebraico_WLC/22_Ct.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Song.xml",
+    "bytes": 138554,
+    "sha256": "5cd6ae36d32c059aaf794af5a5eaed914ac643486db3e412eb0b969760db82ca"
+  },
+  "AT_hebraico_WLC/23_Is.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Isa.xml",
+    "bytes": 1548674,
+    "sha256": "0807678de609bdef284bed5400b94ddab570d101b593c7f59ae1939015572fa2"
+  },
+  "AT_hebraico_WLC/24_Jr.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Jer.xml",
+    "bytes": 1977728,
+    "sha256": "1a7ad7bc26a2cae1d3964230e8eb73043bc1f32505cb86cd69a25261dc39f493"
+  },
+  "AT_hebraico_WLC/25_Lm.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Lam.xml",
+    "bytes": 167766,
+    "sha256": "be68fc6a913313367280c2596e28733ee8cf877c12a65227237733b40d0248c4"
+  },
+  "AT_hebraico_WLC/26_Ez.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ezek.xml",
+    "bytes": 1724378,
+    "sha256": "90bf8adfa66b2f6695c702263fe668755c99c6afc386202c12de4f704f5d4e46"
+  },
+  "AT_hebraico_WLC/27_Dn.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Dan.xml",
+    "bytes": 569236,
+    "sha256": "bc69d0fa9708dacb11ea6d587509250bf1bcc1b4343eac2d6e97f8b41518fc0d"
+  },
+  "AT_hebraico_WLC/28_Os.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hos.xml",
+    "bytes": 236712,
+    "sha256": "f38ae44a3a97d142768bd5f4d40e77b69265184f9a5aec9e6af1b9b226e8daae"
+  },
+  "AT_hebraico_WLC/29_Jl.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Joel.xml",
+    "bytes": 105277,
+    "sha256": "c0fefc6881afe949b023968106cdccc05a690734b8bb6e9aa48914d77e5369af"
+  },
+  "AT_hebraico_WLC/30_Am.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Amos.xml",
+    "bytes": 201588,
+    "sha256": "6ad94c6a18076762f1a458720c62156d354e5111ee25719b7792b70792d0084d"
+  },
+  "AT_hebraico_WLC/31_Ob.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Obad.xml",
+    "bytes": 44626,
+    "sha256": "1e893e552a7ed7e2e6d4048637ff5da8a2853a9e4432f4095cede80b959d850c"
+  },
+  "AT_hebraico_WLC/32_Jn.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Jonah.xml",
+    "bytes": 80534,
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d"
+  },
+  "AT_hebraico_WLC/33_Mq.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Mic.xml",
+    "bytes": 145482,
+    "sha256": "267e111adc1b941e32444816af07aa136ecde02cb315cd42597f78b393e67a01"
+  },
+  "AT_hebraico_WLC/34_Na.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Nah.xml",
+    "bytes": 69823,
+    "sha256": "5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c"
+  },
+  "AT_hebraico_WLC/35_Hc.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hab.xml",
+    "bytes": 79467,
+    "sha256": "2592b212d816775adc8dac46bd0c46263982c308a186dde64dfb8239c57bd2d1"
+  },
+  "AT_hebraico_WLC/36_Sf.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Zeph.xml",
+    "bytes": 87313,
+    "sha256": "eb5bd2a745fba1ffeed31dfafd834ce7c290929c992390be1a2b9451d22dea2e"
+  },
+  "AT_hebraico_WLC/37_Ag.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hag.xml",
+    "bytes": 71754,
+    "sha256": "26ebbae4fe491cf89ce70e1264cbcbf66a562b497cb214b677e67a9a43ad545c"
+  },
+  "AT_hebraico_WLC/38_Zc.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Zech.xml",
+    "bytes": 300202,
+    "sha256": "2e287c8d0e0abd3bf601eb8ef9b4ee6ca3ae12cf36c0ed1612a7dcca54a2e777"
+  },
+  "AT_hebraico_WLC/39_Ml.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Mal.xml",
+    "bytes": 95722,
+    "sha256": "1583e6a701406dce7b8c2bf85e3522ec31383756de130685fc7c2eb6df8964b2"
+  },
+  "AT_hebraico_WLC/VerseMap.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/VerseMap.xml",
+    "bytes": 106885,
+    "sha256": "6cd269ca3dccef2cb944b9d9dd8afc950f929dab53a534f1268d23affa983163"
+  },
+  "NT_grego_SBLGNT/40_Mt.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/61-Mt-morphgnt.txt",
+    "bytes": 1188216,
+    "sha256": "95b360228bedd1c2d06655469111d3f028a4ce1d46939d440ed549feee8b73ec"
+  },
+  "NT_grego_SBLGNT/41_Mc.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+    "bytes": 742563,
+    "sha256": "4a2d2365cfe3e8d6c20b7c130c2c46363fa4459c3a6004992eba0a18231b183e"
+  },
+  "NT_grego_SBLGNT/42_Lc.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/63-Lk-morphgnt.txt",
+    "bytes": 1265076,
+    "sha256": "a6f10ccf27a905f21ecbec96c3c01f220c39dd37aae118022113a52dfeb7528e"
+  },
+  "NT_grego_SBLGNT/43_Jo.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/64-Jn-morphgnt.txt",
+    "bytes": 964787,
+    "sha256": "1b1de3e48e3f3d212ba19c76e5b2f1749833f888f5b52513099ec13cc01b619c"
+  },
+  "NT_grego_SBLGNT/44_At.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/65-Ac-morphgnt.txt",
+    "bytes": 1228900,
+    "sha256": "04349afeba263d667698b37d39465d746530434b455fb6ac2941ec5c59fb85ca"
+  },
+  "NT_grego_SBLGNT/45_Rm.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/66-Ro-morphgnt.txt",
+    "bytes": 452306,
+    "sha256": "364b3b57c70e731920c7fa8a61f09ecd53eed858f7f3590596066484d0638cc6"
+  },
+  "NT_grego_SBLGNT/46_1Co.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/67-1Co-morphgnt.txt",
+    "bytes": 435113,
+    "sha256": "5233a5b099e2499baed34ec2d6f53ae44545d532a7e2fb12acafcf39ff6fdbf3"
+  },
+  "NT_grego_SBLGNT/47_2Co.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/68-2Co-morphgnt.txt",
+    "bytes": 291615,
+    "sha256": "1742d5076780a5338a858f2d83e615c87b2412cbefa56a4b8e14aa2c0ce326c4"
+  },
+  "NT_grego_SBLGNT/48_Gl.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/69-Ga-morphgnt.txt",
+    "bytes": 145242,
+    "sha256": "ec249897464e8e8992e4869645471d6f3372e7373ba3a5d429516946d8cffada"
+  },
+  "NT_grego_SBLGNT/49_Ef.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/70-Eph-morphgnt.txt",
+    "bytes": 156655,
+    "sha256": "9f6444d3aff9791817c2ad84d8ff5b1c229d18a4e9ab07e5066ceb0068dee397"
+  },
+  "NT_grego_SBLGNT/50_Fp.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/71-Php-morphgnt.txt",
+    "bytes": 105215,
+    "sha256": "6e6133fba46c164c16264c4d9563b30d5634effba5792419f8ed5d5ec08961a4"
+  },
+  "NT_grego_SBLGNT/51_Cl.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/72-Col-morphgnt.txt",
+    "bytes": 102848,
+    "sha256": "21e18b4310ce953cd786f8466824f24795cb46ef149dc501a330d55a05f7346a"
+  },
+  "NT_grego_SBLGNT/52_1Ts.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/73-1Th-morphgnt.txt",
+    "bytes": 96313,
+    "sha256": "e322ec075748e81897dc0a2b87a821ee78e200f6ba833bbba07607e55a3c68d5"
+  },
+  "NT_grego_SBLGNT/53_2Ts.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/74-2Th-morphgnt.txt",
+    "bytes": 53237,
+    "sha256": "309ba3338e0ccf2219bea7ee49f1e63bbefc1edcceedc5527c79395fd6b0bc19"
+  },
+  "NT_grego_SBLGNT/54_1Tm.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/75-1Ti-morphgnt.txt",
+    "bytes": 110719,
+    "sha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97"
+  },
+  "NT_grego_SBLGNT/55_2Tm.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/76-2Ti-morphgnt.txt",
+    "bytes": 83507,
+    "sha256": "8af532322a0693ecb8d34b75c544c3b6a57e76e266be750d62d42bc07385376e"
+  },
+  "NT_grego_SBLGNT/56_Tt.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/77-Tit-morphgnt.txt",
+    "bytes": 46382,
+    "sha256": "16e9204306d616795f53f8627ff6ea05a80f572d7a21ed23ac7df99c6e00324d"
+  },
+  "NT_grego_SBLGNT/57_Fm.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/78-Phm-morphgnt.txt",
+    "bytes": 21103,
+    "sha256": "e302779406b5405e8ff82a0dc2ded5ab49951f0d6245fe86894100bd83c51e33"
+  },
+  "NT_grego_SBLGNT/58_Hb.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/79-Heb-morphgnt.txt",
+    "bytes": 333352,
+    "sha256": "de7d5c7efe4cdb5e9023c8571c322c3b1a5a817de1d97c3275aef5e154b2756b"
+  },
+  "NT_grego_SBLGNT/59_Tg.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/80-Jas-morphgnt.txt",
+    "bytes": 114622,
+    "sha256": "205d4cdbb4c89aabd51ebf599fcfa622001af6e64dcd4e5ad487298ee4b7a204"
+  },
+  "NT_grego_SBLGNT/60_1Pe.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/81-1Pe-morphgnt.txt",
+    "bytes": 114392,
+    "sha256": "7eeeecddae91a5d103576f629e4fa536fa2217381f4a83eaa904b63d81ffc0b8"
+  },
+  "NT_grego_SBLGNT/61_2Pe.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/82-2Pe-morphgnt.txt",
+    "bytes": 75995,
+    "sha256": "41c1bb93726bf66e46653bb369850f2e319869375f31746d120276dff73a310a"
+  },
+  "NT_grego_SBLGNT/62_1Jo.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/83-1Jn-morphgnt.txt",
+    "bytes": 130821,
+    "sha256": "99fb0d33100f9df25697e9b9ecaa04c599a277b5f2f65f8ed28e97902fed4df9"
+  },
+  "NT_grego_SBLGNT/63_2Jo.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/84-2Jn-morphgnt.txt",
+    "bytes": 15330,
+    "sha256": "bb90002d6b9bbbc43977a59c85ad04de873750b5e24187da064a319c2acd7fec"
+  },
+  "NT_grego_SBLGNT/64_3Jo.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/85-3Jn-morphgnt.txt",
+    "bytes": 14477,
+    "sha256": "a75df82d9007bb673e7d27bcb86681e011befc24cbaef1c658965803d7ae490a"
+  },
+  "NT_grego_SBLGNT/65_Jd.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/86-Jud-morphgnt.txt",
+    "bytes": 31986,
+    "sha256": "93c64857b492812544f1c5903bb63b5ec63ee5f32f69dd4c02d9d9c84b84624d"
+  },
+  "NT_grego_SBLGNT/66_Ap.txt": {
+    "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/87-Re-morphgnt.txt",
+    "bytes": 616102,
+    "sha256": "5386b17ab6e3a8a68478cb0f4644009f6ad5322f379327629407ffd46a0e6dd3"
+  },
+  "dicionarios/hebraico_HebrewStrong.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/HebrewStrong.xml",
+    "bytes": 2749042,
+    "sha256": "a628f4f89f8bdaf2483fd3faf1abc8653cc6717758dfc9f24beb7571d9bdd0c4"
+  },
+  "dicionarios/hebraico_LexicalIndex.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/LexicalIndex.xml",
+    "bytes": 1782592,
+    "sha256": "8f7a605c58899d2f44430149c143c00903976e1e91232476677972a69e5bc85f"
+  },
+  "dicionarios/hebraico_BDB.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/BrownDriverBriggs.xml",
+    "bytes": 2911253,
+    "sha256": "2b52658a4323d91674cda4090ab8b3ebddfff640f4f18143c28300e80b2c38f8"
+  },
+  "dicionarios/grego_strongs.js": {
+    "url": "https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.js",
+    "bytes": 1200839,
+    "sha256": "7624ee738ae47e80f1a352223e28a26d011c9cd4898822cee52f47a010c04efd"
+  },
+  "dicionarios/hebraico_strongs.js": {
+    "url": "https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.js",
+    "bytes": 2003130,
+    "sha256": "5ce6aeed551c709f49bcfa341cadf2f34bc7599b85d9de9e6ac2ecbf60fc3739"
+  },
+  "dicionarios/grego_lexemes.yaml": {
+    "url": "https://raw.githubusercontent.com/morphgnt/morphological-lexicon/master/lexemes.yaml",
+    "bytes": 1738012,
+    "sha256": "16e8c79e1cfd57bde6d2917e7cc9e1f173bac92d11eac2cdb06ef0dcc7dab0c8"
+  }
+}

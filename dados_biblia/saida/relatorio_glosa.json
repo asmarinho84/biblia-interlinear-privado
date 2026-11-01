@@ -1,0 +1,618 @@
+{
+  "livros": {
+    "01_Gn": {
+      "nome": "Gênesis",
+      "palavras": 20613,
+      "sem_glosa": 0
+    },
+    "02_Êx": {
+      "nome": "Êxodo",
+      "palavras": 16714,
+      "sem_glosa": 0
+    },
+    "03_Lv": {
+      "nome": "Levítico",
+      "palavras": 11950,
+      "sem_glosa": 0
+    },
+    "04_Nm": {
+      "nome": "Números",
+      "palavras": 16413,
+      "sem_glosa": 0
+    },
+    "05_Dt": {
+      "nome": "Deuteronômio",
+      "palavras": 14295,
+      "sem_glosa": 0
+    },
+    "06_Js": {
+      "nome": "Josué",
+      "palavras": 10051,
+      "sem_glosa": 0
+    },
+    "07_Jz": {
+      "nome": "Juízes",
+      "palavras": 9885,
+      "sem_glosa": 0
+    },
+    "08_Rt": {
+      "nome": "Rute",
+      "palavras": 1296,
+      "sem_glosa": 0
+    },
+    "09_1Sm": {
+      "nome": "1 Samuel",
+      "palavras": 13262,
+      "sem_glosa": 0
+    },
+    "10_2Sm": {
+      "nome": "2 Samuel",
+      "palavras": 11042,
+      "sem_glosa": 0
+    },
+    "11_1Rs": {
+      "nome": "1 Reis",
+      "palavras": 13140,
+      "sem_glosa": 0
+    },
+    "12_2Rs": {
+      "nome": "2 Reis",
+      "palavras": 12283,
+      "sem_glosa": 0
+    },
+    "13_1Cr": {
+      "nome": "1 Crônicas",
+      "palavras": 10749,
+      "sem_glosa": 0
+    },
+    "14_2Cr": {
+      "nome": "2 Crônicas",
+      "palavras": 13315,
+      "sem_glosa": 0
+    },
+    "15_Ed": {
+      "nome": "Esdras",
+      "palavras": 3754,
+      "sem_glosa": 0
+    },
+    "16_Ne": {
+      "nome": "Neemias",
+      "palavras": 5313,
+      "sem_glosa": 0
+    },
+    "17_Et": {
+      "nome": "Ester",
+      "palavras": 3045,
+      "sem_glosa": 0
+    },
+    "18_Jó": {
+      "nome": "Jó",
+      "palavras": 8343,
+      "sem_glosa": 0
+    },
+    "19_Sl": {
+      "nome": "Salmos",
+      "palavras": 19589,
+      "sem_glosa": 0
+    },
+    "20_Pv": {
+      "nome": "Provérbios",
+      "palavras": 6915,
+      "sem_glosa": 0
+    },
+    "21_Ec": {
+      "nome": "Eclesiastes",
+      "palavras": 2987,
+      "sem_glosa": 0
+    },
+    "22_Ct": {
+      "nome": "Cantares",
+      "palavras": 1251,
+      "sem_glosa": 0
+    },
+    "23_Is": {
+      "nome": "Isaías",
+      "palavras": 16933,
+      "sem_glosa": 0
+    },
+    "24_Jr": {
+      "nome": "Jeremias",
+      "palavras": 21839,
+      "sem_glosa": 0
+    },
+    "25_Lm": {
+      "nome": "Lamentações",
+      "palavras": 1540,
+      "sem_glosa": 0
+    },
+    "26_Ez": {
+      "nome": "Ezequiel",
+      "palavras": 18732,
+      "sem_glosa": 0
+    },
+    "27_Dn": {
+      "nome": "Daniel",
+      "palavras": 5919,
+      "sem_glosa": 0
+    },
+    "28_Os": {
+      "nome": "Oseias",
+      "palavras": 2381,
+      "sem_glosa": 0
+    },
+    "29_Jl": {
+      "nome": "Joel",
+      "palavras": 957,
+      "sem_glosa": 0
+    },
+    "30_Am": {
+      "nome": "Amós",
+      "palavras": 2042,
+      "sem_glosa": 0
+    },
+    "31_Ob": {
+      "nome": "Obadias",
+      "palavras": 291,
+      "sem_glosa": 0
+    },
+    "32_Jn": {
+      "nome": "Jonas",
+      "palavras": 688,
+      "sem_glosa": 0
+    },
+    "33_Mq": {
+      "nome": "Miqueias",
+      "palavras": 1396,
+      "sem_glosa": 0
+    },
+    "34_Na": {
+      "nome": "Naum",
+      "palavras": 558,
+      "sem_glosa": 0
+    },
+    "35_Hc": {
+      "nome": "Habacuque",
+      "palavras": 671,
+      "sem_glosa": 0
+    },
+    "36_Sf": {
+      "nome": "Sofonias",
+      "palavras": 767,
+      "sem_glosa": 0
+    },
+    "37_Ag": {
+      "nome": "Ageu",
+      "palavras": 600,
+      "sem_glosa": 0
+    },
+    "38_Zc": {
+      "nome": "Zacarias",
+      "palavras": 3128,
+      "sem_glosa": 0
+    },
+    "39_Ml": {
+      "nome": "Malaquias",
+      "palavras": 876,
+      "sem_glosa": 0
+    },
+    "40_Mt": {
+      "nome": "Mateus",
+      "palavras": 18329,
+      "sem_glosa": 0
+    },
+    "41_Mc": {
+      "nome": "Marcos",
+      "palavras": 11286,
+      "sem_glosa": 0
+    },
+    "42_Lc": {
+      "nome": "Lucas",
+      "palavras": 19446,
+      "sem_glosa": 0
+    },
+    "43_Jo": {
+      "nome": "João",
+      "palavras": 15438,
+      "sem_glosa": 0
+    },
+    "44_At": {
+      "nome": "Atos",
+      "palavras": 18412,
+      "sem_glosa": 0
+    },
+    "45_Rm": {
+      "nome": "Romanos",
+      "palavras": 7055,
+      "sem_glosa": 0
+    },
+    "46_1Co": {
+      "nome": "1 Coríntios",
+      "palavras": 6812,
+      "sem_glosa": 0
+    },
+    "47_2Co": {
+      "nome": "2 Coríntios",
+      "palavras": 4473,
+      "sem_glosa": 0
+    },
+    "48_Gl": {
+      "nome": "Gálatas",
+      "palavras": 2226,
+      "sem_glosa": 0
+    },
+    "49_Ef": {
+      "nome": "Efésios",
+      "palavras": 2416,
+      "sem_glosa": 0
+    },
+    "50_Fp": {
+      "nome": "Filipenses",
+      "palavras": 1626,
+      "sem_glosa": 0
+    },
+    "51_Cl": {
+      "nome": "Colossenses",
+      "palavras": 1580,
+      "sem_glosa": 0
+    },
+    "52_1Ts": {
+      "nome": "1 Tessalonicenses",
+      "palavras": 1473,
+      "sem_glosa": 0
+    },
+    "53_2Ts": {
+      "nome": "2 Tessalonicenses",
+      "palavras": 820,
+      "sem_glosa": 0
+    },
+    "54_1Tm": {
+      "nome": "1 Timóteo",
+      "palavras": 1591,
+      "sem_glosa": 0
+    },
+    "55_2Tm": {
+      "nome": "2 Timóteo",
+      "palavras": 1235,
+      "sem_glosa": 0
+    },
+    "56_Tt": {
+      "nome": "Tito",
+      "palavras": 659,
+      "sem_glosa": 0
+    },
+    "57_Fm": {
+      "nome": "Filemom",
+      "palavras": 334,
+      "sem_glosa": 0
+    },
+    "58_Hb": {
+      "nome": "Hebreus",
+      "palavras": 4935,
+      "sem_glosa": 0
+    },
+    "59_Tg": {
+      "nome": "Tiago",
+      "palavras": 1739,
+      "sem_glosa": 0
+    },
+    "60_1Pe": {
+      "nome": "1 Pedro",
+      "palavras": 1678,
+      "sem_glosa": 0
+    },
+    "61_2Pe": {
+      "nome": "2 Pedro",
+      "palavras": 1098,
+      "sem_glosa": 0
+    },
+    "62_1Jo": {
+      "nome": "1 João",
+      "palavras": 2137,
+      "sem_glosa": 0
+    },
+    "63_2Jo": {
+      "nome": "2 João",
+      "palavras": 245,
+      "sem_glosa": 0
+    },
+    "64_3Jo": {
+      "nome": "3 João",
+      "palavras": 219,
+      "sem_glosa": 0
+    },
+    "65_Jd": {
+      "nome": "Judas",
+      "palavras": 459,
+      "sem_glosa": 0
+    },
+    "66_Ap": {
+      "nome": "Apocalipse",
+      "palavras": 9833,
+      "sem_glosa": 0
+    }
+  },
+  "sem_lexico": 0,
+  "sem_glosa": 0,
+  "exemplos": [],
+  "regras_contexto": {
+    "total_regras": 273,
+    "aplicacoes_por_classe": {
+      "B": 12047,
+      "A": 28155,
+      "C": 1047
+    },
+    "regras_nunca_usadas": [
+      26,
+      95,
+      157,
+      158
+    ]
+  },
+  "arc": {
+    "01_Gn": {
+      "versiculos": 1533,
+      "sem_arc": 0
+    },
+    "02_Êx": {
+      "versiculos": 1213,
+      "sem_arc": 0
+    },
+    "03_Lv": {
+      "versiculos": 859,
+      "sem_arc": 0
+    },
+    "04_Nm": {
+      "versiculos": 1289,
+      "sem_arc": 0
+    },
+    "05_Dt": {
+      "versiculos": 959,
+      "sem_arc": 0
+    },
+    "06_Js": {
+      "versiculos": 658,
+      "sem_arc": 0
+    },
+    "07_Jz": {
+      "versiculos": 618,
+      "sem_arc": 0
+    },
+    "08_Rt": {
+      "versiculos": 85,
+      "sem_arc": 0
+    },
+    "09_1Sm": {
+      "versiculos": 811,
+      "sem_arc": 0
+    },
+    "10_2Sm": {
+      "versiculos": 695,
+      "sem_arc": 0
+    },
+    "11_1Rs": {
+      "versiculos": 817,
+      "sem_arc": 0
+    },
+    "12_2Rs": {
+      "versiculos": 719,
+      "sem_arc": 0
+    },
+    "13_1Cr": {
+      "versiculos": 943,
+      "sem_arc": 0
+    },
+    "14_2Cr": {
+      "versiculos": 822,
+      "sem_arc": 0
+    },
+    "15_Ed": {
+      "versiculos": 280,
+      "sem_arc": 0
+    },
+    "16_Ne": {
+      "versiculos": 405,
+      "sem_arc": 0
+    },
+    "17_Et": {
+      "versiculos": 167,
+      "sem_arc": 0
+    },
+    "18_Jó": {
+      "versiculos": 1070,
+      "sem_arc": 0
+    },
+    "19_Sl": {
+      "versiculos": 2527,
+      "sem_arc": 66
+    },
+    "20_Pv": {
+      "versiculos": 915,
+      "sem_arc": 0
+    },
+    "21_Ec": {
+      "versiculos": 222,
+      "sem_arc": 0
+    },
+    "22_Ct": {
+      "versiculos": 117,
+      "sem_arc": 0
+    },
+    "23_Is": {
+      "versiculos": 1291,
+      "sem_arc": 0
+    },
+    "24_Jr": {
+      "versiculos": 1364,
+      "sem_arc": 0
+    },
+    "25_Lm": {
+      "versiculos": 154,
+      "sem_arc": 0
+    },
+    "26_Ez": {
+      "versiculos": 1273,
+      "sem_arc": 0
+    },
+    "27_Dn": {
+      "versiculos": 357,
+      "sem_arc": 0
+    },
+    "28_Os": {
+      "versiculos": 197,
+      "sem_arc": 0
+    },
+    "29_Jl": {
+      "versiculos": 73,
+      "sem_arc": 0
+    },
+    "30_Am": {
+      "versiculos": 146,
+      "sem_arc": 0
+    },
+    "31_Ob": {
+      "versiculos": 21,
+      "sem_arc": 0
+    },
+    "32_Jn": {
+      "versiculos": 48,
+      "sem_arc": 0
+    },
+    "33_Mq": {
+      "versiculos": 105,
+      "sem_arc": 0
+    },
+    "34_Na": {
+      "versiculos": 47,
+      "sem_arc": 0
+    },
+    "35_Hc": {
+      "versiculos": 56,
+      "sem_arc": 0
+    },
+    "36_Sf": {
+      "versiculos": 53,
+      "sem_arc": 0
+    },
+    "37_Ag": {
+      "versiculos": 38,
+      "sem_arc": 0
+    },
+    "38_Zc": {
+      "versiculos": 211,
+      "sem_arc": 0
+    },
+    "39_Ml": {
+      "versiculos": 55,
+      "sem_arc": 0
+    },
+    "40_Mt": {
+      "versiculos": 1068,
+      "sem_arc": 0
+    },
+    "41_Mc": {
+      "versiculos": 673,
+      "sem_arc": 0
+    },
+    "42_Lc": {
+      "versiculos": 1149,
+      "sem_arc": 0
+    },
+    "43_Jo": {
+      "versiculos": 866,
+      "sem_arc": 0
+    },
+    "44_At": {
+      "versiculos": 1002,
+      "sem_arc": 0
+    },
+    "45_Rm": {
+      "versiculos": 430,
+      "sem_arc": 0
+    },
+    "46_1Co": {
+      "versiculos": 437,
+      "sem_arc": 0
+    },
+    "47_2Co": {
+      "versiculos": 256,
+      "sem_arc": 0
+    },
+    "48_Gl": {
+      "versiculos": 149,
+      "sem_arc": 0
+    },
+    "49_Ef": {
+      "versiculos": 155,
+      "sem_arc": 0
+    },
+    "50_Fp": {
+      "versiculos": 104,
+      "sem_arc": 0
+    },
+    "51_Cl": {
+      "versiculos": 95,
+      "sem_arc": 0
+    },
+    "52_1Ts": {
+      "versiculos": 89,
+      "sem_arc": 0
+    },
+    "53_2Ts": {
+      "versiculos": 47,
+      "sem_arc": 0
+    },
+    "54_1Tm": {
+      "versiculos": 113,
+      "sem_arc": 0
+    },
+    "55_2Tm": {
+      "versiculos": 83,
+      "sem_arc": 0
+    },
+    "56_Tt": {
+      "versiculos": 46,
+      "sem_arc": 0
+    },
+    "57_Fm": {
+      "versiculos": 25,
+      "sem_arc": 0
+    },
+    "58_Hb": {
+      "versiculos": 303,
+      "sem_arc": 0
+    },
+    "59_Tg": {
+      "versiculos": 108,
+      "sem_arc": 0
+    },
+    "60_1Pe": {
+      "versiculos": 105,
+      "sem_arc": 0
+    },
+    "61_2Pe": {
+      "versiculos": 61,
+      "sem_arc": 0
+    },
+    "62_1Jo": {
+      "versiculos": 105,
+      "sem_arc": 0
+    },
+    "63_2Jo": {
+      "versiculos": 13,
+      "sem_arc": 0
+    },
+    "64_3Jo": {
+      "versiculos": 15,
+      "sem_arc": 0
+    },
+    "65_Jd": {
+      "versiculos": 25,
+      "sem_arc": 0
+    },
+    "66_Ap": {
+      "versiculos": 405,
+      "sem_arc": 1
+    }
+  },
+  "exemplo_sem_lexico": null
+}
